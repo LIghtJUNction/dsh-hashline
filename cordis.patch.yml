@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-hashline
+      name: '@lightjunction/dsh-hashline'
+      config: {}
